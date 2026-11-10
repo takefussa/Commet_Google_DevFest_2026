@@ -4,7 +4,7 @@ X のポストや YouTube のコメントを **送信する前に** 見直すた
 
 > **DevFest GDGoC Japan 2026 Hackathon 提出作品**　チーム：Poetomi（竹下理斗・森澤諒星）
 
-![YouTube風の画面で、ほしもちがコメントを読んで喜んでいる様子](docs/images/youtube-check-happy.png)
+![YouTube風の画面で、ほしもちがコメントを読んで喜んでいる様子](https://raw.githubusercontent.com/Devfest-Hackathon-2026/df-2026-t081/main/docs/images/youtube-check-happy.png)
 
 ## 🚀 デプロイ URL（Web 体験版）
 
@@ -13,6 +13,8 @@ X のポストや YouTube のコメントを **送信する前に** 見直すた
 - 拡張機能をインストールせずに、ブラウザでそのまま試せます
 - サンプル判定・育成・着せ替え・ガチャは **ログイン不要** です
 - Google ログインすると **Gemini 判定** に切り替えられます
+
+📊 **発表スライド：** [Google スライドで見る](https://docs.google.com/presentation/d/1estJrGBziZso4cuFKfy8OrXhlSRnn4_zQIM7pyQq_hI/edit?usp=sharing)
 
 ---
 
@@ -46,7 +48,7 @@ X のポストや YouTube のコメントを **送信する前に** 見直すた
 
 コメントを書き始めると、ほしもちが入力欄のそばへ歩いてきます。欄のほうへ身を乗り出し、目線・うなずき・まばたきで文章を読むしぐさをします。
 
-![ほしもちが入力欄のそばで文章を読んでいる](docs/images/youtube-reading.png)
+![ほしもちが入力欄のそばで文章を読んでいる](https://raw.githubusercontent.com/Devfest-Hackathon-2026/df-2026-t081/main/docs/images/youtube-reading.png)
 
 ### 2. クリックすると投稿前チェック（Gemini 判定）
 
@@ -54,7 +56,7 @@ X のポストや YouTube のコメントを **送信する前に** 見直すた
 
 | 傷つける表現：ほしもちが悲しみ、言い換え例を表示 | Gemini 判定：思いやりのある投稿 |
 | :---: | :---: |
-| ![有害な返信にほしもちが悲しむ](docs/images/x-check-harmful.png) | ![Gemini判定で思いやりのある投稿と判定](docs/images/x-gemini-check.png) |
+| ![有害な返信にほしもちが悲しむ](https://raw.githubusercontent.com/Devfest-Hackathon-2026/df-2026-t081/main/docs/images/x-check-harmful.png) | ![Gemini判定で思いやりのある投稿と判定](https://raw.githubusercontent.com/Devfest-Hackathon-2026/df-2026-t081/main/docs/images/x-gemini-check.png) |
 
 ### 3. 投稿が成功すると育つ
 
@@ -62,7 +64,7 @@ X のポストや YouTube のコメントを **送信する前に** 見直すた
 
 | 育成状況 | スマートフォン表示 |
 | :---: | :---: |
-| ![育成状況の画面](docs/images/growth.png) | <img src="docs/images/x-mobile.png" alt="スマートフォン幅のX風画面" width="260"> |
+| ![育成状況の画面](https://raw.githubusercontent.com/Devfest-Hackathon-2026/df-2026-t081/main/docs/images/growth.png) | <img src="https://raw.githubusercontent.com/Devfest-Hackathon-2026/df-2026-t081/main/docs/images/x-mobile.png" alt="スマートフォン幅のX風画面" width="260"> |
 
 ### 4. 着せ替え・ガチャ・今日のかけら交換
 
@@ -70,7 +72,7 @@ X のポストや YouTube のコメントを **送信する前に** 見直すた
 
 | 着せ替え | ガチャ・今日のかけら交換 |
 | :---: | :---: |
-| ![着せ替え画面](docs/images/wardrobe.png) | ![ガチャとかけら交換の画面](docs/images/gacha-exchange.png) |
+| ![着せ替え画面](https://raw.githubusercontent.com/Devfest-Hackathon-2026/df-2026-t081/main/docs/images/wardrobe.png) | ![ガチャとかけら交換の画面](https://raw.githubusercontent.com/Devfest-Hackathon-2026/df-2026-t081/main/docs/images/gacha-exchange.png) |
 
 ## 使い方
 
@@ -99,7 +101,7 @@ Chrome ウェブストアには未公開のため、ソースからビルドし�
 
 ## アーキテクチャ
 
-![Commetのアーキテクチャ図](docs/images/architecture.png)
+![Commetのアーキテクチャ図](https://raw.githubusercontent.com/Devfest-Hackathon-2026/df-2026-t081/main/docs/images/architecture.png)
 
 アイコン出典：[Google Cloud 公式](https://cloud.google.com/icons) / [Firebase 公式](https://firebase.google.com/brand-guidelines)
 
